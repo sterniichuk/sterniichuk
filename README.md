@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SehiiSterniichuk
-- 👀 I'm interested in gamedev and desktop applications developing;
-- 🌱 I’m currently learning java and oop;
+- 👀 I'm interested in developing web applications using Java.
+- 🌱 I’m currently learning Java and SQL & NoSQL databases.
