@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @SehiiSterniichuk
-- 👀 I'm interested in developing web applications using Java.
-- 🌱 I’m currently learning Java and SQL & NoSQL databases.
+Looking for Java Developer roles
